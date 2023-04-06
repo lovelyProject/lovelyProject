@@ -1,5 +1,4 @@
 <h2>Hello, I'm Edward! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
 <p><em>Frontend developer <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
 </em></p>
 
