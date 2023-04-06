@@ -2,7 +2,9 @@
 <p><em>Frontend developer <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
 </em></p>
 
-
+<div align="center">
+<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</div>
 
 <br/>  
 
