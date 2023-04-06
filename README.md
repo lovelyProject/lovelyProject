@@ -34,8 +34,8 @@
 <a href="https://github.com/lovelyProject" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/lovelyProject" target="_blank">
-<img src=https://icons8.ru/icon/114954/телеграмма-app alt=github style="margin-bottom: 5px;" />
+<a href="http://t.me/+79874723541" target="_blank">
+<img src=https://icons8.ru/icon/114954/телеграмма-app alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
