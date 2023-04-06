@@ -1,4 +1,8 @@
-<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm Edward and I'm a frontend developer 🐍 ☁️ </samp></h4>
+<h2>Hello, I'm Edward! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
+<img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
+<p><em>Frontend developer <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
+</em></p>
+
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
