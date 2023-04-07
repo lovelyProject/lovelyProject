@@ -1,4 +1,4 @@
-<h2>Hello, I'm Edward! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="70"></h2>
+<h2>Hello, I'm Edward!</h2>
 <p><em>Frontend developer <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="50"> 
 </em></p>
 
