@@ -3,7 +3,7 @@
 </em></p>
 
 <div align="center">
-<img width="351" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
+<img width="352" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 </div>
 
 <br/>  
