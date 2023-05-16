@@ -36,7 +36,7 @@
 <br/>  
   <table>
   <tr>
-    <td align="center"><img height="195px" align="right" alt="webDev's Github Languages" src="http://github-readme-streak-stats.herokuapp.com?user=lovelyProject&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" /></td> 
+    <td align="center"><img height="200px" align="right" alt="webDev's Github Languages" src="http://github-readme-streak-stats.herokuapp.com?user=lovelyProject&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" /></td> 
     <td>
       <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lovelyProject&layout=compact&theme=gotham" alt="webDev's Github stats" />
     </td>
