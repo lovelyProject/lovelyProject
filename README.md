@@ -1,6 +1,7 @@
 <h2>Hey, I'm Edward! It's pleasure to see you here<img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="70"> </h2>
-<!-- <p><em>Frontend developer 
-</em></p> -->
+<br />
+<br />
+<br />
 
 <div align="center">
 <img width="351" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
