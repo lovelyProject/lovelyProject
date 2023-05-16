@@ -30,10 +30,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lovelyProject&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center">
-      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-readme-streak-stats.herokuapp.com?user=lovelyProject&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" />
-</div>  
+<br />
+<div align="center"><img height="195px" align="right" alt="webDev's Github Languages" src="http://github-readme-streak-stats.herokuapp.com?user=lovelyProject&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" /></div>  
 <br/>  
 
 ## Connect with me  
