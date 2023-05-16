@@ -31,8 +31,16 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lovelyProject&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lovelyProject&show_icons=true&count_private=true&hide_border=true" align="center" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-readme-streak-stats.herokuapp.com?user=lovelyProject&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
