@@ -42,7 +42,7 @@
       <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lovelyProject&layout=compact&theme=gotham" alt="webDev's Github stats" />
     </td>
     <td>
-      ![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)
+      ![Codewars](https://github.r2v.ch/codewars?user=lovelyProject&top_languages=true)
     </td>
   </tr>
 </table>
